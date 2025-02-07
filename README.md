@@ -1,0 +1,1 @@
+# resumen_ventas_palmira_python
